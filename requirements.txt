@@ -1,0 +1,5 @@
+python-telegram-bot
+pyTelegramBotAPI
+pip install python-telegram-bot
+python bot.python
+python-telegram-bot==13.7
