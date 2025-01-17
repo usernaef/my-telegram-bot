@@ -1,7 +1,0 @@
-fastapi==0.68.1
-python-telegram-bot==20.3
-uvicorn==0.15.0
-python-dotenv==1.0.0
-asyncio==3.4.3
-pydantic==1.8.2
-python-telegram-bot==20.7
